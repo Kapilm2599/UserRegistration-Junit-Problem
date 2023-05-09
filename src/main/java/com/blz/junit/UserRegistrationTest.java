@@ -73,6 +73,5 @@ public class UserRegistrationTest {
 	        boolean result = userRegistrationRegEx.passwordValidate("Shadab23#%");
 	        Assert.assertFalse(result);
 	    }
-		
 
 }

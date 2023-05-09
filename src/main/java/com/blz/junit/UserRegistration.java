@@ -34,5 +34,6 @@ public class UserRegistration {
     {
         return Pattern.matches(PASSWORD, pw);
     }
+    
 
 }
